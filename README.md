@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Menuka
 
-<!--
-**Menuka-Irindu/Menuka-Irindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at the University of Westminster
 
-Here are some ideas to get you started:
+💻 Passionate about Full-Stack Development, Machine Learning, and UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working with:
+- Python
+- FastAPI
+- MongoDB
+- JavaScript
+- HTML & CSS
+- Java
+- SQL
+- PHP
+- Dart
+- Flutter
+- Node.js
+- Express.js
+- React.js
+- React Native
+
+🌱 Currently learning:
+- Machine Learning & Data Mining
+- Modern Web Development
+- Backend Architecture
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/menuka-darmapriya-a22154333
+- Portfolio: [Your Portfolio URL]
+
+✨ Building solutions that combine technology, design, and real-world impact.
